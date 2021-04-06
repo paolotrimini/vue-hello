@@ -22,3 +22,7 @@ body {
 .container > * {
     margin: auto;
 }
+
+.bg-goldenrod {
+    background-color: goldenrod;
+}
