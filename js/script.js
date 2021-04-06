@@ -10,7 +10,6 @@ function initVue() {
         data: {
             'bgColor': 'bg-goldenrod'
         }
-
     });
 
 }
