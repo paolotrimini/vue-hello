@@ -4,6 +4,15 @@
 
 function initVue() {
 
+    var app = new Vue({
+
+        el: '#app',
+        data: {
+            message: 'Hello Vue js!'
+        }
+
+    });
+
 }
 
 function init() {
