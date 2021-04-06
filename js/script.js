@@ -8,6 +8,7 @@ function initVue() {
 
         el: '#app',
         data: {
+            'text': 'Hello Vue js!',
             'bgColor': 'bg-goldenrod'
         }
     });
